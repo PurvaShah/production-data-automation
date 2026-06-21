@@ -39,7 +39,3 @@ If problems are found, it prints alerts so issues can be fixed quickly.
 ```bash
 python -m src.main
 ```
-
-## Notes
-
-Keep the project simple and narrative-focused, with clear automation of raw input data to a daily digest output.
