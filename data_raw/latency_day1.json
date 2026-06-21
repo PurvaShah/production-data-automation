@@ -1,0 +1,6 @@
+{"timestamp": "2024-06-01 09:00:10", "endpoint": "/login", "latency_ms": 120, "status": 200}
+{"timestamp": "2024-06-01 09:01:20", "endpoint": "/home", "latency_ms": 340, "status": 200}
+{"timestamp": "2024-06-01 09:02:10", "endpoint": "/search", "latency_ms": 980, "status": 500}
+{"timestamp": "2024-06-01 09:03:45", "endpoint": "/profile", "latency_ms": 150, "status": 200}
+{"timestamp": "2024-06-01 09:05:00", "endpoint": "/search", "latency_ms": 1100, "status": 503}
+{"timestamp": "2024-06-01 09:06:30", "endpoint": "/home", "latency_ms": 250, "status": 200}

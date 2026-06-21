@@ -1,0 +1,8 @@
+timestamp,user_id,event_type
+2024-06-01 09:00:12,101,app_open
+2024-06-01 09:01:45,101,button_click
+2024-06-01 09:05:10,102,app_open
+2024-06-01 09:07:55,103,screen_view
+2024-06-01 09:10:00,104,app_open
+2024-06-01 09:12:30,104,button_click
+2024-06-01 09:15:00,105,app_open
