@@ -1,0 +1,6 @@
+timestamp,user_id,event_type
+BAD_TIMESTAMP,201,app_open
+2024-06-02 09:01:45,201,button_click
+2024-06-02 09:05:10,202,app_open
+INVALID,203,screen_view
+2024-06-02 09:10:00,204,app_open
